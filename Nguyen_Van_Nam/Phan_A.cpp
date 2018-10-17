@@ -45,7 +45,7 @@ void Tim_Max(int a[])
 // ham main
 int main()
 {
-	int a[3];
+	unsigned int a[3];
 	Ham_Nhap(a);
 	Xuat(a);
 	Tim_Max(a);
