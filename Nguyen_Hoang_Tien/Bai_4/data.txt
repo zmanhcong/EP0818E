@@ -1,0 +1,17 @@
+
+***THONG TIN SACH***
+
+Thong tin quyen sach thu 1: 
++) Ten sach: dhsj.
++) So trang sach: 12 trang.
++) Gia tien sach: 40000.000000 VND.
+
+Thong tin quyen sach thu 2: 
++) Ten sach: Khi toi.
++) So trang sach: 1234 trang.
++) Gia tien sach: 590000.000000 VND.
+
+Thong tin quyen sach thu 3: 
++) Ten sach: hui.
++) So trang sach: 123 trang.
++) Gia tien sach: 78999.000000 VND.
